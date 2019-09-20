@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Parametros24</string>
+    <string name="et1">Nombre</string>
+    <string name="button1">Enviar</string>
+    <string name="button2">Regresar</string>
+    <string name="tv1">El nombre es</string>
+
+
+
+</resources>
